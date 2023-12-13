@@ -1,0 +1,11 @@
+Model Information:
+* title:	Couch Bed
+* source:	https://sketchfab.com/3d-models/couch-bed-ab7ffda1ac5a41bc8e62b144078b00c0
+* author:	Oculusfluffy (https://sketchfab.com/Oculusfluffy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Couch Bed" (https://sketchfab.com/3d-models/couch-bed-ab7ffda1ac5a41bc8e62b144078b00c0) by Oculusfluffy (https://sketchfab.com/Oculusfluffy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

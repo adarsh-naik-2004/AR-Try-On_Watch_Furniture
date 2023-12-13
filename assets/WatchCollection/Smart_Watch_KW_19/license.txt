@@ -1,0 +1,11 @@
+Model Information:
+* title:	Smart Watch KW 19
+* source:	https://sketchfab.com/3d-models/smart-watch-kw-19-b06bfd561b1f42d2a2b87652ef6000fd
+* author:	praveen maurya (https://sketchfab.com/praveen293027)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Smart Watch KW 19" (https://sketchfab.com/3d-models/smart-watch-kw-19-b06bfd561b1f42d2a2b87652ef6000fd) by praveen maurya (https://sketchfab.com/praveen293027) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

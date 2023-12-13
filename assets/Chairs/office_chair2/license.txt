@@ -1,0 +1,11 @@
+Model Information:
+* title:	office chair2
+* source:	https://sketchfab.com/3d-models/office-chair2-6e5e7b7f918e411dae1d24b561b51f79
+* author:	clon6767 (https://sketchfab.com/clon6767)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "office chair2" (https://sketchfab.com/3d-models/office-chair2-6e5e7b7f918e411dae1d24b561b51f79) by clon6767 (https://sketchfab.com/clon6767) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
