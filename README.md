@@ -40,7 +40,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1lR5k27dx4JcO5C06U4mb056IW_pUs-SO/view?usp=sharing)
+![App Screenshot]("C:\Users\adars\OneDrive\Desktop\AR-Try-On_Watch_Furniture\Result_image\Picture1.jpg")
 
 ![App Screenshot](https://drive.google.com/file/d/1hw62JLrf6HTYfrSaOdptXjFlYDmlo35F/view?usp=sharing)
 
