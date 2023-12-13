@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="31"
+7-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.CAMERA" />
+10-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-63
+10-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-60
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+12-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+13    <uses-feature
+13-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-63
+15        android:required="false" />
+15-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:64-88
+16    <uses-feature
+16-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-83
+17        android:name="android.hardware.camera"
+17-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-55
+18        android:required="false" />
+18-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:56-80
+19    <uses-feature
+19-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-93
+20        android:name="android.hardware.camera.autofocus"
+20-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-65
+21        android:required="false" />
+21-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:66-90
+22    <uses-feature
+22-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-89
+23        android:name="android.hardware.camera.front"
+23-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-61
+24        android:required="false" />
+24-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:62-86
+25    <uses-feature
+25-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-88
+26        android:name="android.hardware.touchscreen"
+26-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-60
+27        android:required="false" />
+27-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:61-85
+28    <uses-feature
+28-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-99
+29        android:name="android.hardware.touchscreen.multitouch"
+29-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-71
+30        android:required="false" />
+30-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:72-96
+31    <uses-feature
+31-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-108
+32        android:name="android.hardware.touchscreen.multitouch.distinct"
+32-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-80
+33        android:required="false" />
+33-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:81-105
+34
+35    <application android:extractNativeLibs="true" >
+35-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-28:17
+35-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+36        <meta-data
+36-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-69
+37            android:name="unity.splash-mode"
+37-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+38            android:value="0" />
+38-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:49-66
+39        <meta-data
+39-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-74
+40            android:name="unity.splash-enable"
+40-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-50
+41            android:value="True" />
+41-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:51-71
+42        <meta-data
+42-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-78
+43            android:name="unity.launch-fullscreen"
+43-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-54
+44            android:value="True" />
+44-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:55-75
+45        <meta-data
+45-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+46            android:name="unity.allow-resizable-window"
+46-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-59
+47            android:value="False" />
+47-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:60-81
+48        <meta-data
+48-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+49            android:name="notch.config"
+49-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+50            android:value="portrait|landscape" />
+50-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+51        <meta-data
+51-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
+52            android:name="unity.auto-report-fully-drawn"
+52-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-60
+53            android:value="true" />
+53-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:61-81
+54
+55        <activity
+55-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-26:16
+56            android:name="com.unity3d.player.UnityPlayerActivity"
+56-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:15-68
+57            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+57-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:180-361
+58            android:exported="true"
+58-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:433-456
+59            android:hardwareAccelerated="false"
+59-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:397-432
+60            android:launchMode="singleTask"
+60-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:148-179
+61            android:resizeableActivity="false"
+61-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:362-396
+62            android:screenOrientation="fullUser"
+62-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:111-147
+63            android:theme="@style/UnityThemeSelector" >
+63-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:69-110
+64            <intent-filter>
+64-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-23:23
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-69
+65-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:19-66
+66
+67                <action android:name="android.intent.action.MAIN" />
+67-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-61
+67-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-58
+68            </intent-filter>
+69
+70            <meta-data
+70-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-82
+71                android:name="unityplayer.UnityActivity"
+71-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-58
+72                android:value="true" />
+72-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:59-79
+73            <meta-data
+73-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-70
+74                android:name="notch_support"
+74-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-46
+75                android:value="true" />
+75-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:47-67
+76        </activity>
+77
+78        <meta-data
+78-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-77
+79            android:name="com.google.ar.core"
+79-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-49
+80            android:value="optional" />
+80-->C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:50-74
+81    </application>
+82
+83</manifest>

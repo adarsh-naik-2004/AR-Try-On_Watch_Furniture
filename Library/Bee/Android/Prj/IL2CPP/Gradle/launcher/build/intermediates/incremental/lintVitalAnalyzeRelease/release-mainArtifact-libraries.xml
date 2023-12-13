@@ -1,0 +1,49 @@
+<libraries>
+  <library
+      name="C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\cd88358eb9d43c62c1d0893f9d8d5a9a\transformed\out\jars\classes.jar;C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\cd88358eb9d43c62c1d0893f9d8d5a9a\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\cd88358eb9d43c62c1d0893f9d8d5a9a\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\adars\OneDrive\Desktop\furniture try on\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="com.google.ar:core:1.32.0@aar"
+      jars="C:\Users\adars\.gradle\caches\transforms-3\eaa9c5c82785e6d97bd2a056c32f18f9\transformed\core-1.32.0\jars\classes.jar"
+      resolved="com.google.ar:core:1.32.0"
+      folder="C:\Users\adars\.gradle\caches\transforms-3\eaa9c5c82785e6d97bd2a056c32f18f9\transformed\core-1.32.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":VuforiaEngine:@aar"
+      jars="C:\Users\adars\.gradle\caches\transforms-3\724064e2598442b808d0e0d1c45b3f36\transformed\VuforiaEngine\jars\classes.jar;C:\Users\adars\.gradle\caches\transforms-3\724064e2598442b808d0e0d1c45b3f36\transformed\VuforiaEngine\jars\libs\VuforiaEngine.jar;C:\Users\adars\.gradle\caches\transforms-3\724064e2598442b808d0e0d1c45b3f36\transformed\VuforiaEngine\jars\libs\VuforiaUnityPlayer.jar"
+      resolved=":VuforiaEngine:"
+      folder="C:\Users\adars\.gradle\caches\transforms-3\724064e2598442b808d0e0d1c45b3f36\transformed\VuforiaEngine"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.annotation:annotation:1.3.0@jar"
+      jars="C:\Users\adars\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.3.0\21f49f5f9b85fc49de712539f79123119740595\annotation-1.3.0.jar"
+      resolved="androidx.annotation:annotation:1.3.0"/>
+</libraries>

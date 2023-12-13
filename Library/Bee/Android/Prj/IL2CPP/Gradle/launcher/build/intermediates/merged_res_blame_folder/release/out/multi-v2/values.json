@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\adars\\OneDrive\\Desktop\\furniture try on\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adars\\.gradle\\caches\\transforms-3\\eaa9c5c82785e6d97bd2a056c32f18f9\\transformed\\core-1.32.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "356,407,462,588,714",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "402,457,583,709,797"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\adars\\OneDrive\\Desktop\\furniture try on\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,98",
+                        "endColumns": "41,65",
+                        "endOffsets": "94,161"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "802,846",
+                        "endColumns": "43,67",
+                        "endOffsets": "841,909"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\adars\\OneDrive\\Desktop\\furniture try on\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,356,456,594",
+                        "endLines": "2,3,4,5,6,7,9,12,16",
+                        "endColumns": "45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "96,153,209,258,304,351,451,589,816"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,16,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,994,1094,1232",
+                        "endLines": "2,3,4,5,6,7,17,20,24",
+                        "endColumns": "45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "96,153,209,258,304,351,1089,1227,1454"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\adars\\.gradle\\caches\\transforms-3\\724064e2598442b808d0e0d1c45b3f36\\transformed\\VuforiaEngine\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "79",
+                        "endOffsets": "130"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "914",
+                        "endColumns": "79",
+                        "endOffsets": "989"
+                    }
+                }
+            ]
+        }
+    ]
+}
