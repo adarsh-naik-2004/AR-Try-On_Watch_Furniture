@@ -42,11 +42,11 @@ To run this project, you will need to add the following environment variables to
 
 ![App Screenshot](https://github.com/adarsh-naik-2004/AR-Try-On_Watch_Furniture/assets/130145440/0b354f46-03be-414d-8c2d-170ab89d279e)
 
-![App Screenshot](https://drive.google.com/file/d/1hw62JLrf6HTYfrSaOdptXjFlYDmlo35F/view?usp=sharing)
+![App Screenshot](https://github.com/adarsh-naik-2004/AR-Try-On_Watch_Furniture/assets/130145440/202eb2e2-4cc3-4e0a-846c-406b6708130a)
 
-![App Screenshot](https://drive.google.com/file/d/1vuLT-APkm4zL1IDaA4J46FmnhdARzvgn/view?usp=sharing)
+![App Screenshot](https://github.com/adarsh-naik-2004/AR-Try-On_Watch_Furniture/assets/130145440/31082bcd-1cce-4290-9cef-acb23a9126fe)
 
-![App Screenshot](https://drive.google.com/file/d/1gwyJn2xWVoM8b6oDBq-ymHc1rOw0R3LT/view?usp=sharing)
+![App Screenshot](https://github.com/adarsh-naik-2004/AR-Try-On_Watch_Furniture/assets/130145440/74666d4c-9f5e-4073-bf47-ceb7ca7f3312)
 
 
 ## License
